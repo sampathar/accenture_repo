@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>A0</members>
         <members>A080</members>
@@ -85,6 +86,8 @@
         <members>A98</members>
         <members>A989</members>
         <members>AA54</members>
+        <members>ARApexTest</members>
+        <members>ARTestSample2</members>
         <members>ATest1</members>
         <members>AWSClass1</members>
         <members>Ac1</members>
@@ -94,6 +97,8 @@
         <members>Ac31</members>
         <members>Ac314</members>
         <members>Ac345</members>
+        <members>AccountREceivablespage</members>
+        <members>AccountSelectClassController</members>
         <members>B0</members>
         <members>a0testclass</members>
         <members>a10testclass</members>
@@ -1213,6 +1218,36 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>ChatterAnswers</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <members>Territory2</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>ACCObj1234__c</members>
         <members>ACCObj123__c</members>
         <members>ACCObjTest1__c</members>
@@ -1601,35 +1636,4 @@
         <members>Obj5__c.WorkFlowRule2</members>
         <name>WorkflowRule</name>
     </types>
-    <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>ChatterAnswers</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <members>Territory2</members>
-        <name>Settings</name>
-    </types>
-    <version>39.0</version>
 </Package>
